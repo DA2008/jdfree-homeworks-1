@@ -7,4 +7,4 @@
 #### 1. [Java](01)
 #### 2. [Пишем pomodoro](02)
 #### 3. [Pomodoro ❤️ Telegram](03)
-#### 4. [](04)
+#### 4. [](04) https://github.com/netology-code/jdfree-homeworks/blob/main/04/readme.md
